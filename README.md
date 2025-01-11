@@ -9,9 +9,10 @@ This project is an implementation of thread management and scheduling mechanisms
 3. **Advanced Scheduler** - Implementation of a Multi-Level Feedback Queue Scheduler (MLFQS).
 
 ## Team Members
+- **Yashwanth Chennu**: [ychennu@buffalo.edu](mailto:ychennu@buffalo.edu)
 - **Ashish Ramagoni**: [ashishgo@buffalo.edu](mailto:ashishgo@buffalo.edu)
 - **Wendan Zhao**: [wendanzh@gmail.com](mailto:wendanzh@gmail.com)
-- **Yashwanth Chennu**: [ychennu@buffalo.edu](mailto:ychennu@buffalo.edu)
+
 
 ## Features
 
